@@ -32,7 +32,9 @@ def getHideMessage(im):
 
 im = Image.open('Syngenta.bmp')
 print("------------------------------")
+print("1.")
 getGreenPixels(im)
 print("------------------------------")
+print("2.")
 getHideMessage(im)
 print("------------------------------")
