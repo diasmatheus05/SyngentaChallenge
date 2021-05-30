@@ -10,7 +10,7 @@
 1. Necessária a instalação do python (Utilizei em meus teste a versão 3.9.1)
 2. Rodar o comando *py resolucao.py*
 
-#### Respostas:
+### Respostas:
 
 ###### Primeiro desafio:
 Número de pixels verde é: 298
